@@ -1,0 +1,22 @@
+{
+  "name": "angular-desafio1",
+  "version": "1.0.0",
+  "description": "Desafio 1 - Curso Angular CoderHouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tepaseointenso/angular-Desafio1.git"
+  },
+  "author": "Eric Trasancos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tepaseointenso/angular-Desafio1/issues"
+  },
+  "homepage": "https://github.com/tepaseointenso/angular-Desafio1#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
